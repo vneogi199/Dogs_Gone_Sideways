@@ -10,3 +10,8 @@ Based on this, a ResNet50 model is trained with the last layer as a custom layer
 Validation Accuracy was obtained as 94.3%.
 
 Credits and Motivation: https://www.kaggle.com/dansbecker/exercise-data-augmentation
+
+
+![Demo 1](https://raw.githubusercontent.com/vneogi199/Dogs_Gone_Sideways/master/Demo1.png)
+
+![Demo 2](https://raw.githubusercontent.com/vneogi199/Dogs_Gone_Sideways/master/Demo2.png)
